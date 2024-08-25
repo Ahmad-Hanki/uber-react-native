@@ -1,5 +1,9 @@
 import { Stack } from "expo-router";
+import { useAuth } from '@clerk/clerk-expo'
+
 const Layout = () => { 
+ 
+
   return (
     <Stack
       screenOptions={{
