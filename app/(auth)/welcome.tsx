@@ -4,6 +4,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { router } from "expo-router";
 import Swiper from "react-native-swiper";
 // this swiper is very good
+
 import { onboarding } from "@/constants";
 import CustomButton from "@/components/CustomButton";
 const Welcome = () => {
