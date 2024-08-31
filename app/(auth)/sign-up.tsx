@@ -1,6 +1,5 @@
 import { View, Text, Image, Alert } from "react-native";
 import React, { useState } from "react";
-import { SafeAreaView } from "react-native-safe-area-context";
 import { ScrollView } from "react-native";
 import { icons, images } from "@/constants";
 import InputField from "@/components/InputField";

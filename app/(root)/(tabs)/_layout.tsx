@@ -58,7 +58,7 @@ const _layout = () => {
             justifyContent: "space-between",
             alignItems: "center",
             flexDirection: "row",
-            position: "absolute",
+            position: "relative",
           },
         }}
       >
